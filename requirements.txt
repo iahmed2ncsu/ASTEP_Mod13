@@ -1,7 +1,6 @@
 streamlit
 pandas
 Image
-os
 csv
 numpy
 time
