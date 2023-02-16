@@ -14,7 +14,7 @@ Created on Tue Aug  9 19:01:04 2022
 
 import streamlit as st
 from PIL import Image
-import os
+#import os
 import pandas as pd
 pd.options.mode.chained_assignment = None  #removes a warning message
 import csv
